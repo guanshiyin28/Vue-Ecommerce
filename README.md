@@ -1,25 +1,21 @@
 # Laravel E-commerce Website
 
-E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <br>
+E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js.
 
 ## Demo
 
-Admin Panel: https://admin.lcommerce.net
+Admin Panel: https://admin.guanshiyinnn.com
 
 ```
-Email: admin@example.com
-Password: admin123
+Email: admin@admin.com
+Password: guan123
 ```
 
-Website: https://lcommerce.net
+Website: https://guanshiyinnn.com
 
 ```
-Email: user1@example.com
-Password: useruser1
-
-
-Email: user2@example.com
-Password: useruser2
+Email: user@user.com
+Password: guan123
 ```
 
 ## Installation
